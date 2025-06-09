@@ -8,8 +8,8 @@ To analyze sales performance, customer ratings, and product distribution within 
 
 ## 📁 Files Included
 
-- `Blinkit Analysis.pdf` – Presentation with visuals and KPIs
-- `blinkit Query Doc.pdf` – SQL queries and explanations
+- `Blinkit Analysis.pdf` – Presentation with visuals and KPIs in pdf
+- `Blinkit Analysis.pptx` – Presentation with visuals and KPIs in pptx
 - `CSV File` - Contain CSV files.
 - `SQL Files` - SQL queries files.
 

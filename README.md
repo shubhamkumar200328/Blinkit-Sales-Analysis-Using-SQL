@@ -4,6 +4,7 @@
 
 To analyze sales performance, customer ratings, and product distribution within Blinkit’s dataset, uncovering key patterns and improvement areas using SQL-based KPIs and provide oppertunities for Power BI visualizations.
 
+![Alt Text](blinkit_Sales_analysis.png)
 ---
 
 ## 📁 Files Included
